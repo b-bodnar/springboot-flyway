@@ -1,5 +1,7 @@
 ## Overview
-Repository with template
+Database Migrations with Flyway
+Article on JavaRush [go to](https://javarush.ru/groups/posts/3157-java-proekt-ot-a-do-ja-springboot--flyway)
+
 
 ## Building
 ...
