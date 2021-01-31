@@ -1,6 +1,6 @@
 ## Overview
 Database Migrations with Flyway
-Article on JavaRush [go to](https://javarush.ru/groups/posts/3157-java-proekt-ot-a-do-ja-springboot--flyway)
+Article on JavaRush [here](https://javarush.ru/groups/posts/3157-java-proekt-ot-a-do-ja-springboot--flyway)
 
 
 Olso very useful article wich discribe SpringBoot and Flyway with maven plagin is [here](https://www.baeldung.com/database-migrations-with-flyway) 
