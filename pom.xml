@@ -12,7 +12,7 @@
 	<artifactId>springboot-flyway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot + Flyway</name>
-	<description>Database Migrations with Flyway</description>
+	<description>Project demonstrates integration between SpringBoot and Flyway</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
